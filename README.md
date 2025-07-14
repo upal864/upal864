@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey,+I+am+Upal+Mazumder;4th+yr+UG+student+at+IIT+Kharagpur;Pursuing+Industrial+and+Systems+Engineering;Passionate+about+ML,+DL,+GenAI+and+AI+Agents)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey,+I+am+Upal+Mazumder;4th+yr+UG+student+at+IIT+Kharagpur;Pursuing+Industrial+and+Systems+Engineering;Passionate+about+GenAI+and+AI+Agents)](https://git.io/typing-svg)
 <!--
 **upal864/upal864** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
