@@ -1,8 +1,8 @@
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3B5aDYydGNnMzU1NWtwaDduMzFmd21pYzR4eDdpb3J3bHlxaTM3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" align="right" width="300" alt="AI Animation"/>
-
 ## 👋 Hi there
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey,+I+am+Upal+Mazumder;4th+yr+UG+student+at+IIT+Kharagpur;Pursuing;Industrial+and+Systems+Engineering;Passionate+about+GenAI+and+AI+Agents)](https://git.io/typing-svg)
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3B5aDYydGNnMzU1NWtwaDduMzFmd21pYzR4eDdpb3J3bHlxaTM3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" align="right" width="300" alt="AI Animation"/>
 
 - 🔭 I’m currently working on full stack systems rendering the power of Generative AI and AI agents  
 - 🌱 I’m currently learning Data Structures and Algorithms  
