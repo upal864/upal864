@@ -1,6 +1,4 @@
-<table>
-<tr>
-<td>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3B5aDYydGNnMzU1NWtwaDduMzFmd21pYzR4eDdpb3J3bHlxaTM3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" align="right" width="300" alt="AI Animation"/>
 
 ## 👋 Hi there
 
@@ -17,15 +15,6 @@
   - mazupal624@kgpian.iitkgp.ac.in  
   - [LinkedIn](https://www.linkedin.com/in/upal-mazumder-863747241/)  
   - [Website](https://upals-resume.lovable.app)  
-
-</td>
-<td>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3B5aDYydGNnMzU1NWtwaDduMzFmd21pYzR4eDdpb3J3bHlxaTM3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" width="300" alt="AI Animation">
-</td>
-</tr>
-</table>
-
-
 
   
 <!--
