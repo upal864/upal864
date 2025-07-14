@@ -14,6 +14,13 @@
 
 -📝 Featured Article:
   - [Advent of Generative AI: The New Era of Human-Computer Relationship](https://medium.com/@kanakprobhamaz65/advent-of-generative-ai-the-new-era-of-human-computer-relationship-4e8d7604e39c)
+
+-📫 How to reach me:   
+  - mazupal624@kgpian.iitkgp.ac.in
+  - [LinkedIn](https://www.linkedin.com/in/upal-mazumder-863747241/)
+  - [Website](https://upals-resume.lovable.app)
+
+  
 <!--
 **upal864/upal864** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
