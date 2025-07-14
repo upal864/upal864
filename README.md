@@ -4,7 +4,7 @@
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3B5aDYydGNnMzU1NWtwaDduMzFmd21pYzR4eDdpb3J3bHlxaTM3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" align="right" width="300" alt="AI Animation"/>
 
-- 🔭 I’m currently working on full stack systems rendering the power of Generative AI and AI agents  
+- 🔭 I’m currently working on full stack systems rendering the power of Gen AI and AI agents  
 - 🌱 I’m currently learning Data Structures and Algorithms  
 - 👯 I’m looking to collaborate on AI + Automation tools, ML-powered software projects, Open-source agentic systems using LLMs  
 - 🤔 I’m looking for help with Scaling AI projects for production, Best practices in LLMOps and deployment  
